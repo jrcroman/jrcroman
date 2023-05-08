@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Jorge!
 
 ## 🌟 About Me
-I am a self-taught iOS and Android app developer with experience in native app development. My journey as an app developer started when I co-founded Fastkrono, where I realized that app development was something that really appealed to me.
+I am a self-taught iOS and Android app developer with experience in native app development. My journey as an app developer started when I co-founded FastKrono, where I realized that app development was something that really appealed to me.
 
 ## 💻 My coding skills
 - Swift/SwiftUI, UIKit for iOS and Kotlin/Jetpack Compose for Android
