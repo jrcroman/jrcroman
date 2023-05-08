@@ -1,25 +1,23 @@
-###👋 Hey there, I'm Jorge!
+# 👋 Hey there, I'm Jorge!
 
-##💻 About Me
-I am a passionate iOS and Android app developer with experience in both native and cross-platform development. Currently, I am working at FastKrono as a mobile app developer, where I have been working on building innovative solutions that improve user experience.
+## 🌟 About Me
+I am a self-taught iOS and Android app developer with experience in native app development. My journey as an app developer started when I co-founded Fastkrono, where I realized that app development was something that really appealed to me.
 
-##🌟 What I can offer
-Expertise in developing native and cross-platform mobile applications for iOS and Android platforms
-Proficiency in programming languages such as Swift, Objective-C, Java, Kotlin, and React Native
-Experience in developing applications with various SDKs, APIs, and third-party libraries
-Strong debugging and problem-solving skills
-An eye for detail and a commitment to writing clean, efficient, and maintainable code
-An ability to work independently and as part of a team
-##📈 My Career Progression
-Worked as an intern at XYZ company, where I gained experience in mobile app development for iOS and Android platforms
-Joined FastKrono as a mobile app developer, where I have been involved in the development of several successful applications
-##📱 My Portfolio
-Check out my portfolio to see some of the projects I have worked on: https://github.com/yourusername/your-portfolio
+## 💻 My coding skills
+- Swift/SwiftUI, UIKit for iOS and Kotlin/Jetpack Compose for Android
+- REST API, JSON & third-party libraries such us Firebase
+- MVVM architecture & SOLID principles
+- Unit & UI testing experience
+- Bluetooth frameworks
+- Other programming languages: Python, SQL and learning React Native 
 
-##📫 Let's Connect
-Feel free to reach out to me if you have any questions or if you would like to discuss a potential project: jorge@email.com
+## 📈 My Career Progression
+I am an engineer and co-founder of FastKrono. FastKrono develops timing systems for sport competitions and the IoT devices are controlled by the FastKrono app.
+## 📱 My Portfolio
+Check out my portfolio to see some of the apps I have published to the Google Play and Apple Store: https://github.com/yourusername/your-portfolio
 
-Thank you for taking the time to review my profile. I look forward to the opportunity to work with you!
+## 📫 Let's Connect
+Feel free to reach out if you would like to discuss a potential project.
 <!--
 **jrcroman/jrcroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
